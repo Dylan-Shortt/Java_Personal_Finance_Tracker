@@ -1,0 +1,21 @@
+Gifts for Parents#$#Miscellaneous#$#500
+Rent#$#Housing#$#1000
+Groceries#$#Food#$#300
+Electricity#$#Utilities#$#150
+Fuel#$#Transportation#$#200
+Savings#$#Savings/Debt#$#400
+Medical Bills#$#Health#$#250
+Netflix#$#Entertainment#$#15
+Haircuts#$#Personal Care#$#30
+School Fees#$#Family and Education#$#500
+Donations#$#Miscellaneous#$#50
+Vacation#$#Miscellaneous#$#1000
+Water Bill#$#Utilities#$#45
+Gym Membership#$#Health#$#60
+Car Payment#$#Transportation#$#400
+Dining Out#$#Food#$#75
+Home Repairs#$#Miscellaneous#$#500
+Snacks#$#Food#$#25
+Phone Bill#$#Utilities#$#60
+Childcare#$#Family and Education#$#600
+Life Insurance#$#Miscellaneous#$#100
